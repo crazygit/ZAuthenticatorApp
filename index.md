@@ -2,6 +2,12 @@
 
 ![show](/assets/images/show.png){:height="500px" width="400px"}
 
+## Features
+
+* Support adding HOTP and TOTP accounts
+* Support imoport && Export your accounts
+* Support edit your account by yourself
+* Sync your accounts information to google drive to restore account on different devices.
 
 ## Screenshots
 
