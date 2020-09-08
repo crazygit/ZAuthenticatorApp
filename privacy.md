@@ -60,4 +60,4 @@ This policy is effective as of 2024-12-31
 
 **Contact Us**
 
-If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at lianglin999@gmail.com.
+If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at <a href="mailto:support@wiseturtles.com">support@wiseturtles.com</a>.
