@@ -1,6 +1,6 @@
 theme: jekyll-theme-slate
 title: ZAuthenticator
 description: The last Two Factor (2FA) app you need
-google_play_url: http://zauthenticator.wiseturtles.com/download
+google_play_url: https://play.google.com/store/apps/details?id=crazygit.authenticator.qrcode.otp.twofa.zauthenticator
 show_downloads: true
 
