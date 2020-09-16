@@ -1,13 +1,28 @@
 ## Beautiful and Simple
 
-![show](/assets/images/show.png){:height="500px" width="400px"}
+![show](/assets/images/lanch.png){:height="500px" width="400px"}
 
-## Features
 
-* Support adding HOTP and TOTP accounts
-* Support imoport && Export your accounts
-* Support edit your account by yourself
-* Sync your accounts information to google drive to restore account on different devices.
+## Introduction
+
+ZAuthenticator is a safe and free two-step verification code generator, which can be used offline, support cloud backup, and multi-device use.
+
+
+## Featues
+
+🔥 No need to network to generate verification code
+🔥 Simple and stylish, supports both bright mode and night mode
+🔥 Support both HOTP and TOTP account types, support 1-9 digits and any time period
+🔥 Support token account import and export, your account in your hands.
+🔥 Support editing token account information by your self.
+🔥 Support cloud backup, synchronize account information to your Google Drive, and never be afraid of token loss.
+🔥 Multi-device synchronization, you can log in to your Google Drive on multiple devices to synchronize your account information.
+
+
+## Permission statement
+
+* Camera: A camera is required when adding an account using a QR code, while you can input your account by manully
+* Google Drive: When synchronizing account information to the cloud, you need to authorize your Google Drive account
 
 ## Screenshots
 
@@ -17,4 +32,3 @@
 <hr>
 ![screen_5](/assets/images/screen_5.png){:height="600px" width="300px"} ![screen_6](/assets/images/screen_6.png){:height="600px" width="300px"}
 <hr>
-![screen_7](/assets/images/screen_7.png){:height="600px" width="300px"}
