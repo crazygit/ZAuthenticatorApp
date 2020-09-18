@@ -38,3 +38,9 @@ img.app_icon {
 #project_title a {
     color: #3dda83;
 }
+
+@media screen and (max-width: 320px) {
+  #downloads {
+    display: block;
+  }
+
