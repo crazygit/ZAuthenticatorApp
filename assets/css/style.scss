@@ -41,6 +41,11 @@ img.app_icon {
 
 @media screen and (max-width: 320px) {
   #downloads {
-    display: block;
-  }
+    display: block !important;
+}
+
+@media screen and (max-width: 480px){
+  #downloads {
+    display: block !important;
+}
 
