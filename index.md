@@ -1,6 +1,6 @@
 ## Beautiful and Simple
 
-![show](/assets/images/feature.png){:height="1024px" width="500px"}
+![show](/assets/images/feature.png){:height="500px" width="1024px"}
 
 
 ## Introduction
@@ -28,7 +28,7 @@ ZAuthenticator is a safe and free two-step verification code generator, which ca
 
 ![main](/assets/images/main.png){:height="600px" width="300px"} ![backup_to_cloud.png](/assets/images/backup_to_cloud.png){:height="600px" width="300px"}
 <hr>
-![multi-thmem_mode.png](/assets/images/multi-thmem_mode.png){:height="600px" width="300px"} ![editable.png](/assets/images/editable.png){:height="600px" width="300px"}
+![multi-thmem_mode.png](/assets/images/multi-thmem_mode.png){:height="600px" width="300px"} ![balck_theme_mode.png](/assets/images/balck_theme_mode.png){:height="600px" width="300px"}
 <hr>
-![nav.png](/assets/images/nav.png){:height="600px" width="300px"} ![balck_theme_mode.png](/assets/images/balck_theme_mode.png){:height="600px" width="300px"}
+![nav.png](/assets/images/nav.png){:height="600px" width="300px"} ![editable.png](/assets/images/editable.png){:height="600px" width="300px"}
 <hr>
