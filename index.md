@@ -1,6 +1,6 @@
 ## Beautiful and Simple
 
-![show](/assets/images/lanch.png){:height="500px" width="400px"}
+![show](/assets/images/feature.png){:height="1024px" width="500px"}
 
 
 ## Introduction
@@ -26,9 +26,9 @@ ZAuthenticator is a safe and free two-step verification code generator, which ca
 
 ## Screenshots
 
-![screen_6](/assets/images/screen_1.png){:height="600px" width="300px"} ![screen_2](/assets/images/screen_2.png){:height="600px" width="300px"}
+![main](/assets/images/main.png){:height="600px" width="300px"} ![backup_to_cloud.png](/assets/images/backup_to_cloud.png){:height="600px" width="300px"}
 <hr>
-![screen_3](/assets/images/screen_3.png){:height="600px" width="300px"} ![screen_4](/assets/images/screen_4.png){:height="600px" width="300px"}
+![multi-thmem_mode.png](/assets/images/multi-thmem_mode.png){:height="600px" width="300px"} ![editable.png](/assets/images/editable.png){:height="600px" width="300px"}
 <hr>
-![screen_5](/assets/images/screen_5.png){:height="600px" width="300px"} ![screen_1](/assets/images/screen_6.png){:height="600px" width="300px"}
+![nav.png](/assets/images/nav.png){:height="600px" width="300px"} ![balck_theme_mode.png](/assets/images/balck_theme_mode.png){:height="600px" width="300px"}
 <hr>
