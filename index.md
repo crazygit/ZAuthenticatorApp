@@ -1,8 +1,3 @@
-## Beautiful and Simple
-
-![show](/assets/images/feature.png){:height="500px" width="1024px"}
-
-
 ## Introduction
 
 ZAuthenticator is a safe and free two-step verification code generator, which can be used offline, support cloud backup, and multi-device use.
